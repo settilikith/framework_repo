@@ -3,6 +3,10 @@
   <groupId>BuildManagementtool</groupId>
   <artifactId>BuildManagementtool</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+	  <maven.compiler.target>1.8</maven.compiler.target>
+	  <maven.compiler.source>1.8</maven.compiler.source>
+  </properties>
   <profiles>
 	  <profile>
 		  <id>FR</id>
